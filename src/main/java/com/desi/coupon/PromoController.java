@@ -1,4 +1,4 @@
-package threadpool_ex1;
+package com.desi.coupon;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

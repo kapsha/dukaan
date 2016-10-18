@@ -1,4 +1,4 @@
-package threadpool_ex1;
+package com.desi.coupon;
 
 public class Promo {
 	private final long id;
